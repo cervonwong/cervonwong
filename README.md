@@ -1,6 +1,8 @@
-Something's brewing in [Sona](https://github.com/cervonwong/sona-flutter). 
+Something's brewing in [Sona](https://github.com/cervonwong/sona-flutter)!
 
 I only code during term breaks, to focus on my studies, which explains the large gray void below...
+<br>
+`((O(-)O))` <-- Here's a rowlet emoticon
 
 Language preference: Dart > Kotlin > Java > Python
 <br>
