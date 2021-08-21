@@ -1,8 +1,10 @@
-Something's brewing in [Sona](https://github.com/cervonwong/sona-flutter)!
+Working on a private (for now) web app. ⚒
 
 I only code during term breaks, to focus on my studies, which explains the large gray void below...
 <br>
 `((O(-)O))` <-- Here's a rowlet emoticon
+
+I mainly make educational apps in Flutter
 
 Language preference: Dart > Kotlin > Python > Java
 <br>
