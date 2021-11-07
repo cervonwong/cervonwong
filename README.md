@@ -1,4 +1,4 @@
-Working on a private (for now) web app. ⚒
+Working on a personal website and a design exploration mobile app 
 
 I only code during term breaks, to focus on my studies, which explains the large gray void below...
 <br>
