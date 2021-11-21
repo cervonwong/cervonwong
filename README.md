@@ -1,10 +1,10 @@
-Working on a personal website and a design exploration mobile app 
+Hi 👋. I'm currently learning web development technologies to build a cool website for myself.
 
 I only code during term breaks, to focus on my studies, which explains the large gray void below...
-<br>
+
 `((O(-)O))` <-- Here's a rowlet emoticon
 
-I mainly make educational apps in Flutter
+Most of my projects involve e-learning and educational applications.
 
 Language preference: Dart > Kotlin > Python > Java
 <br>
