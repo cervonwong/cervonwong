@@ -1,4 +1,6 @@
 Hi 👋. I'm currently learning web development technologies to build a cool website for myself.
+<br>
+Preview it here --> [cervonwong.com](https://cervonwong.com)
 
 I only code during term breaks, to focus on my studies, which explains the large gray void below...
 
