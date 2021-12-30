@@ -10,7 +10,26 @@ Language proficiency: Dart > Python > Java > Kotlin
 <br>
 Spoken language proficiency: English > Chinese > Japanese > French
 
-If you're reading this, have a nice day!
+Things that I am learning:
+ - Vue.js
+ - Javascript (Web APIs)
+ - SEO
+
+Things that I want to learn in the future:
+ - Jetpack Compose
+ - Server-side rendering
+
+
+
+```
+           __n__n__
+    .------`-\00/-'
+   /  ##  ## (oo)
+  / \## __   ./
+     |//YY \|/
+     |||   |||
+Cow: Have a nice day!
+```
 
 <hr>
 
