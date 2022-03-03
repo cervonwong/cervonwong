@@ -1,4 +1,4 @@
-Hi!👋 I'm Cervon Wong, a high-schooler, front-end developer, and UI/UX designer. [Check out my portfolio and my blog at cervonwong.com](https://cervonwong.com)
+Hi!👋 I'm Cervon Wong, a high-schooler, doing front-end and UI/UX stuff :) [Check out my portfolio and my blog at cervonwong.com](https://cervonwong.com)
 
  - I only code during term breaks, which explains the patchy contribution graph.
  - I love contributing to issues, discussions, and documentation to improve open-source projects that I love to use.
