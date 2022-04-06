@@ -28,7 +28,7 @@ Things that I want to learn in the future:
   / \## __   ./
      |//YY \|/
      |||   |||
-Cow: Thanks for reading, have a nice day :p
+Cow: Hi.
 ```
 
 <hr>
