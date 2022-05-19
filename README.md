@@ -1,14 +1,17 @@
-Hi!👋 I'm Cervon Wong, a high-schooler, doing front-end and UI/UX stuff :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
+![Hi!](header_image.png)
 
+I'm Cervon Wong, a high-schooler who builds and designs _meaningful_ and _enjoyable_ products which solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
+
+Some things:
  - I only code during term breaks, which explains the patchy contribution graph.
- - I love contributing to issues, discussions, and documentation to improve open-source projects that I love to use.
- - Most of my projects on GitHub are educational or informational products.
+ - I usually contribute to issues, discussions, and documentation of random open-source projects that I love to use.
+ - Most of my projects on GitHub are user-facing educational or informational apps and websites.
 
 Language preference: Dart > Kotlin > Python > Java
 <br>
 Language proficiency: Dart > Python > Java > Kotlin
 <br>
-Spoken language proficiency: English > Chinese > Japanese > French
+Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 
 Things that I am learning:
  - Vue.js
