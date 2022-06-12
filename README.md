@@ -4,7 +4,7 @@ I'm Cervon Wong, a high-schooler who builds and designs cool stuff which solve r
 
 Some things:
  - I only code during term breaks, which explains the patchy contribution graph.
- - I usually contribute to issues, discussions, and documentation of random open-source projects that I love to use.
+ - I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
  - Most of my projects on GitHub are user-facing educational or informational apps and websites.
 
 Language preference: Dart > Kotlin > Python > Java
