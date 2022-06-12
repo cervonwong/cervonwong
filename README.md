@@ -1,6 +1,6 @@
 ![Hi!](header_image_v4.gif)
 
-I'm Cervon Wong, a high-schooler who builds and designs _meaningful_ and _enjoyable_ products which solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
+I'm Cervon Wong, a high-schooler who builds and designs cool stuff which solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
 
 Some things:
  - I only code during term breaks, which explains the patchy contribution graph.
