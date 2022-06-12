@@ -7,9 +7,7 @@ Some things:
  - I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
  - Most of my projects on GitHub are user-facing educational or informational apps and websites.
 
-Language preference: Dart > Kotlin > Python > Java
-<br>
-Language proficiency: Dart > Python > Java > Kotlin
+Language preference: Dart > Kotlin > Python > Java > C++
 <br>
 Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 
