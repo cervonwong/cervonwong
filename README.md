@@ -22,13 +22,12 @@ Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. 👉 [View my resume](https://cervonwong.com/resume).
 
 ```
-           __n__n__
-    .------`-\00/-'
-   /  ##  ## (oo)
+           __n__n__   ,--------,
+    .------`-\00/-'   |   Hi   | 
+   /  ##  ## (oo)    <_________/ 
   / \## __   ./
      |//YY \|/
      |||   |||
-Cow: Hi.
 ```
 
 ***
