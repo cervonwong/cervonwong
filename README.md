@@ -1,26 +1,23 @@
 ![Hi! I build and design cool stuff.](header_image_v5.gif)
 
-I'm Cervon Wong, a high-schooler who builds and designs cool stuff which solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
+I'm Cervon Wong, currently studying my fifth year in NUS High. I build and design meaningful and enjoyable products that solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
 
-Some things:
- - I only code during term breaks, which explains the patchy contribution graph.
- - I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
- - Most of my projects on GitHub are user-facing educational or informational apps and websites.
+About me:
+ - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
+ - 2️⃣ Most of my projects on GitHub are user-facing educational or informational apps and websites.
+ - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
+ - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society.
 
-Language preference: Dart > Kotlin > Python > Java > C++
+Programming language preference: Dart > Kotlin > Python > Java > C++
 <br>
 Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 
-Things that I am learning:
- - Vue.js
- - Javascript (Web APIs)
- - SEO
+Things that I am exploring:
+ - Robotics
+ - Cybersecurity
+ - Web analytics
 
-Things that I want to learn in the future:
- - Jetpack Compose
- - Server-side rendering
-
-
+My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. [Download my resume](https://cervonwong.com/resume).
 
 ```
            __n__n__
