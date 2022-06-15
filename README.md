@@ -1,4 +1,4 @@
-![Hi!](header_image_v4.gif)
+![Hi! I build and design cool stuff.](header_image_v5.gif)
 
 I'm Cervon Wong, a high-schooler who builds and designs cool stuff which solve real-world problems. :) [My portfolio and my blog at cervonwong.com (currently under development)](https://cervonwong.com)
 
