@@ -17,19 +17,19 @@ Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
  - 🔐 Cybersecurity
  - 📊 Web analytics / data analysis
 
+### Résumé
+My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. 👉 [View my résumé](https://cervonwong.com/resume).
+
 ***
 
-My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. 👉 [View my resume](https://cervonwong.com/resume).
+[![Cervon Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cervonwong&show_icons=true&include_all_commits=true)](https://github.com/cervonwong)
 
 ```
-           __n__n__   ,--------,
-    .------`-\00/-'   |   Hi   | 
-   /  ##  ## (oo)    <_________/ 
+           __n__n__   ,-----------,
+    .------`-\00/-'   |   Adios   | 
+   /  ##  ## (oo)    <____________/ 
   / \## __   ./
      |//YY \|/
      |||   |||
 ```
 
-***
-
-[![Cervon Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cervonwong&show_icons=true&include_all_commits=true)](https://github.com/cervonwong)
