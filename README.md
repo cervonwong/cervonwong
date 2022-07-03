@@ -8,7 +8,7 @@
  - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
  - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society.
 
-Programming language preference: Dart > Kotlin > Python > Java > C++
+Programming language preference: Dart > Python > C++ > Java
 <br>
 Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 
