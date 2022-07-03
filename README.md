@@ -21,8 +21,11 @@ Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. 👉 [View my résumé](https://cervonwong.com/resume).
 
 ***
-
-[![Cervon Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cervonwong&show_icons=true&include_all_commits=true)](https://github.com/cervonwong)
+<details>
+<summary>GitHub stats</summary>
+<img align="left" alt="Cervon Wong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cervonwong&show_icons=true&include_all_commits=true"/>
+</details>
+<br>
 
 ```
            __n__n__   ,-----------,
@@ -32,4 +35,3 @@ My education, selected projects, awards and technical skills—summarised for yo
      |//YY \|/
      |||   |||
 ```
-
