@@ -6,7 +6,7 @@
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
  - 2️⃣ Most of my projects on GitHub are user-facing educational or informational apps and websites.
  - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
- - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society.
+ - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society. 😎
 
 Programming language preference: Dart > Python > C++ > Java
 <br>
