@@ -29,7 +29,7 @@ My education, selected projects, awards and technical skills—summarised for yo
 
 ```
            __n__n__   ,-----------,
-    .------`-\00/-'   |   Adios   | 
+    .------`-\00/-'   |    Bye    | 
    /  ##  ## (oo)    <____________/ 
   / \## __   ./
      |//YY \|/
