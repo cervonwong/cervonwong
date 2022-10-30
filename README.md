@@ -1,5 +1,3 @@
-![Hi! I build and design cool stuff.](header_image_v5.gif)
-
 🙋‍♂️<br>I'm Cervon Wong, currently studying my fifth year in NUS High. I build and design meaningful and enjoyable products that solve real-world problems.
 
 ### About me
