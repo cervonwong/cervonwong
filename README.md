@@ -1,4 +1,4 @@
-🙋‍♂️<br>I'm Cervon Wong, currently studying my fifth year in NUS High. I build and design meaningful and enjoyable products that solve real-world problems.
+🙋‍♂️<br> Hi, I'm Cervon Wong, currently studying my final year at NUS High. I build and design meaningful and enjoyable products that solve real-world problems.
 
 ### About me
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
@@ -27,7 +27,7 @@ My education, selected projects, awards and technical skills—summarised for yo
 
 ```
            __n__n__   ,-----------,
-    .------`-\00/-'   |    Bye    | 
+    .------`-\00/-'   |    moo    | 
    /  ##  ## (oo)    <____________/ 
   / \## __   ./
      |//YY \|/
