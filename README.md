@@ -1,4 +1,4 @@
-🙋‍♂️<br> Hi, I'm Cervon Wong, currently studying my final year at NUS High. I build and design meaningful and enjoyable products that solve real-world problems.
+🙋‍♂️<br> Hi, I'm Cervon Wong, currently studying my final year at NUS High. I'm a builder and designer.
 
 ### About me
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
@@ -15,8 +15,10 @@ Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
  - 🔐 Cybersecurity
  - 📊 Web analytics / data analysis
 
-### Résumé
-My education, selected projects, awards and technical skills—summarised for you neatly in a one-page PDF. 👉 [View my résumé](https://cervonwong.com/resume).
+### Links
+ - My one-page resume. 👉 [View my résumé](https://cervonwong.com/resume). 
+ - I maintain a [yard](https://yard.cervonwong.com).
+ - [Other links?](https://links.cervonwong.com)
 
 ***
 <details>
