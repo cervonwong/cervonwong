@@ -1,4 +1,4 @@
-🙋‍♂️<br> Hi, I'm Cervon Wong, currently studying my final year at NUS High. I'm a builder and designer.
+🙋‍♂️<br> Hi, I'm Cervon Wong, a builder and designer, graduated from NUS High School. 
 
 ### About me
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
@@ -15,14 +15,14 @@ Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
  - 🔐 Cybersecurity
  - 📊 Web analytics / data analysis
 
-### Links
+### My websites
  - My one-page resume. 👉 [View my résumé](https://cervonwong.com/resume). 
  - I maintain a [yard](https://yard.cervonwong.com).
  - [Other links?](https://links.cervonwong.com)
 
 ***
 <details>
-<summary>GitHub stats</summary>
+<summary>View GitHub stats</summary>
 <img align="left" alt="Cervon Wong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cervonwong&show_icons=true&include_all_commits=true"/>
 </details>
 <br>
