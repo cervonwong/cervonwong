@@ -6,7 +6,10 @@
  - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
  - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society. 😎
 
-Programming language preference: Dart > Python > C++ > Java
+**Here's a ranking of the languages I use:**
+Programming language preference: Dart > Python > C/C++ > JS > Java
+<be>
+Data Science language preference: R > Julia > Python
 <br>
 Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
 
