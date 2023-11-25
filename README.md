@@ -7,15 +7,13 @@
  - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society. 😎
 
 **Here's a ranking of the languages I use:**
-Programming language preference: Dart > Python > C/C++ > JS > Java
-<be>
-Data Science language preference: R > Julia > Python
-<br>
-Spoken language proficiency: English > Chinese > Japanese > Toki Pona > French
+ - Programming language preference:<br>Dart > Python > C/C++ > JS > Java
+ - Data Science language preference:<br>R > Julia > Python
+ - Spoken language proficiency:<br>English > Chinese > Japanese > Toki Pona > French
 
 ### Things that I am exploring
  - 🤖 Robotics
- - 🔐 Cybersecurity
+ - 🧠 AI/ML
  - 📊 Web analytics / data analysis
 
 ### My websites
