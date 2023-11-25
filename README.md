@@ -1,4 +1,4 @@
-🙋‍♂️<br> Hi, I'm Cervon Wong, a builder and designer, graduated from NUS High School. 
+🙋‍♂️<br> Hi, I'm Cervon Wong, a builder and designer, currently working as a Robotics Engineer Intern.
 
 ### About me
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
