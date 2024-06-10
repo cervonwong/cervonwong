@@ -9,8 +9,8 @@ Currently, I'm active building and maintaining the [Singapore Biology League](ht
  - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society. 😎
 
 **Here's a ranking of the languages I use:**
- - Programming language preference:<br>Dart > Python > C/C++ > JS > Java
- - Data Science language preference:<br>R > Julia > Python
+ - Favourite languages:<br>Dart > Python > C/C++ > JS/TS > Java
+ - Favourite data science languages:<br>R > Julia > Python
  - Spoken language proficiency:<br>English > Chinese > Japanese > Toki Pona > French
 
 ### Things that I am exploring
