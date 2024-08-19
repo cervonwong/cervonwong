@@ -1,4 +1,4 @@
-🙋‍♂️<br> Hi, [I'm Cervon Wong](https://cervonwong.com), a builder and designer, currently working as a Robotics Engineer Intern.
+🙋‍♂️<br> Hi, [I'm Cervon Wong](https://cervonwong.com), a builder and designer.
 
 Currently, I'm active building and maintaining the [Singapore Biology League](https://sgbioleague.org) platform.
 
@@ -6,7 +6,6 @@ Currently, I'm active building and maintaining the [Singapore Biology League](ht
  - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
  - 2️⃣ Most of my projects on GitHub are user-facing educational or informational apps and websites.
  - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
- - 4️⃣ My long-term goal is to be able to use my learnt skills to advance technology for society. 😎
 
 **Here's a ranking of the languages I use:**
  - Favourite languages:<br>Dart > Python > C/C++ > JS/TS > Java
