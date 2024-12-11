@@ -1,21 +1,22 @@
-🙋‍♂️<br> Hi, [I'm Cervon Wong](https://cervonwong.com), a builder and designer.
+🙋‍♂️<br> hey, [I'm Cervon](https://cervonwong.com), I build and design stuff.
 
-Currently, I'm active building and maintaining the [Singapore Biology League](https://sgbioleague.org) platform.
+### "Stuff"
+ - Now, I'm maintaining the [Singapore Biology League](https://sgbioleague.org) platform.
+ - I'm also working on a few side projects related to cybersecurity.
 
 ### About me
- - 1️⃣ I try to contribute to issues, discussions, and documentation of random open-source projects that I love to use.
- - 2️⃣ Most of my projects on GitHub are user-facing educational or informational apps and websites.
- - 3️⃣ When I'm not working on projects, you'll probably find me learning (spoken) languages.
+ - Most of my projects on GitHub are education- or science-related.
+ - When I'm not working on projects, you'll probably find me learning (spoken) languages.
 
-**Here's a ranking of the languages I use:**
+**Languages:**
  - Favourite languages:<br>Dart > Python > C/C++ > JS/TS > Java
  - Favourite data science languages:<br>R > Julia > Python
  - Spoken language proficiency:<br>English > Chinese > Japanese > Toki Pona > French
 
-### Things that I am exploring
+### Future stuff
  - 🤖 Robotics
  - 🧠 AI/ML
- - 📊 Web analytics / data analysis
+ - 🌐 Networking & Cybersecurity
 
 ### My websites
  - My one-page resume. 👉 [View my résumé](https://cervonwong.com/resume). 
