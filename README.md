@@ -7,6 +7,7 @@
 ### About me
  - Most of my projects on GitHub are education- or science-related.
  - When I'm not working on projects, you'll probably find me learning (spoken) languages.
+ - Feel free to message me if you want to play a game of chess or scrabble :)
 
 **Languages:**
  - Favourite languages:<br>Dart > Python > C/C++ > JS/TS > Java
