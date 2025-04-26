@@ -1,7 +1,7 @@
 🙋‍♂️<br> hey, [I'm Cervon](https://cervonwong.com), I build and design stuff.
 
 ### "Stuff"
- - Now, I'm maintaining the [Singapore Biology League](https://sgbioleague.org) platform.
+ - Now, I'm maintaining the [SBL](https://sgbioleague.org) platform.
  - I'm also working on a few side projects related to cybersecurity.
 
 ### About me
