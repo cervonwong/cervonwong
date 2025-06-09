@@ -12,7 +12,7 @@
 **Languages:**
  - Favourite languages:<br>Dart > Python > C/C++ > JS/TS > Java
  - Favourite data science languages:<br>R > Julia > Python
- - Spoken language proficiency:<br>English > Chinese > Japanese > Toki Pona > French
+ - Favourite human languages:<br>English > Chinese > Japanese > Toki Pona > French
 
 ### Future stuff
  - 🤖 Robotics
