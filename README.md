@@ -1,10 +1,10 @@
 🙋‍♂️<br> hey, [I'm Cervon](https://cervonwong.com), I build and design stuff.
 
-### "Stuff"
- - Now, I'm maintaining the [SBL](https://sgbioleague.org) platform.
+### Now
+ - I'm maintaining the [SBL](https://sgbioleague.org) platform.
  - I'm also working on a few side projects related to cybersecurity.
 
-### About me
+### Me
  - Most of my projects on GitHub are education- or science-related.
  - When I'm not working on projects, you'll probably find me learning (spoken) languages.
  - Feel free to message me if you want to play a game of chess or scrabble :)
@@ -14,10 +14,10 @@
  - Favourite data science languages:<br>R > Julia > Python
  - Favourite human languages:<br>English > Chinese > Japanese > Toki Pona > French
 
-### Future stuff
+### Future??
  - 🤖 Robotics
  - 🧠 AI/ML
- - 🌐 Networking & Cybersecurity
+ - 🌐 Cybersecurity
 
 ### My websites
  - My one-page resume. 👉 [View my résumé](https://cervonwong.com/resume). 
