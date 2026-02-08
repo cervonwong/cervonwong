@@ -2,7 +2,7 @@
 
 ### Now
  - I'm maintaining the [SBL](https://sgbioleague.org) platform.
- - I'm also working on a few side projects related to cybersecurity.
+ - I'm also working on a few side projects related to cybersecurity + AI!
 
 ### Me
  - Most of my projects on GitHub are education- or science-related.
