@@ -14,8 +14,7 @@
  - Favourite data science languages:<br>R > Julia > Python
  - Favourite human languages:<br>English > Chinese > Japanese > Toki Pona > French
 
-### Future??
- - 🤖 Robotics
+### Exploring:
  - 🧠 AI/ML
  - 🌐 Cybersecurity
 
