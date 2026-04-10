@@ -1,4 +1,4 @@
-![](cat.webp)<br> hey, [I'm Cervon](https://cervonwong.com), I build and design stuff.
+![](cat.webp)<br> Hey, [I'm Cervon](https://cervonwong.com), I build and design stuff.
 
 ### Now
  - I'm maintaining the [SBL](https://sgbioleague.org) platform.
